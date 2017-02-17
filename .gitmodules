@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:mangal-wg/mangal-backend.git
+[submodule "oauth2"]
+	path = oauth2
+	url = git@github.com:mangal-wg/orcid-oauth2.git
